@@ -4,6 +4,8 @@ Data/Datasets/**/images/*
 !Data/Datasets/**/images/test/**
 !Data/Datasets/**/images/val/
 !Data/Datasets/**/images/val/**
+!Data/Datasets/**/images/train/
+!Data/Datasets/**/images/train/**
 Data/Datasets/**/labels/
 runs/**/predictions/
 runs/**/weights/
