@@ -8,39 +8,40 @@ The project focuses on traffic sign detection and the generation of post-detecti
 
 ## Directory Structure Overview
 
+```text
 ARI3129 - Assignment Materials/
 │
 ├── Data/
-│ └── Datasets/
-│ ├── COCO-based_COCO/
-│ │ └── Dataset used for Faster R-CNN sign type detection
-│ └── YOLO_COCO_sign_shape/
-│ └── Dataset used for YOLOv8 sign shape detection
+│   └── Datasets/
+│       ├── COCO-based_COCO/
+│       │   └── Dataset used for Faster R-CNN sign type detection
+│       └── YOLO_COCO_sign_shape/
+│           └── Dataset used for YOLOv8 sign shape detection
 │
 ├── runs/
-│ └── ari3129/
-│ ├── analytics_sign_shape/
-│ │ ├── predictions/
-│ │ ├── sign_shape_analytics.json
-│ │ └── sign_shape_analytics.csv
-│ │
-│ ├── analytics_sign_type/
-│ │ ├── predictions/
-│ │ ├── sign_type_analytics.json
-│ │ └── sign_type_analytics.csv
-│ │
-│ ├── fasterrcnn_sign_type_v1/
-│ │ ├── best.pt
-│ │ ├── history.json
-│ │ └── test_metrics.json
-│ │
-│ └── yolov8_sign_shape_v1/
-│ ├── weights/
-│ ├── args.yaml
-│ └── results.csv
+│   └── ari3129/
+│       ├── analytics_sign_shape/
+│       │   ├── predictions/
+│       │   ├── sign_shape_analytics.json
+│       │   └── sign_shape_analytics.csv
+│       │
+│       ├── analytics_sign_type/
+│       │   ├── predictions/
+│       │   ├── sign_type_analytics.json
+│       │   └── sign_type_analytics.csv
+│       │
+│       ├── fasterrcnn_sign_type_v1/
+│       │   ├── best.pt (not included – exceeds GitHub 100 MB limit)
+│       │   ├── history.json
+│       │   └── test_metrics.json
+│       │
+│       └── yolov8_sign_shape_v1/
+│           ├── weights/
+│           ├── args.yaml
+│           └── results.csv
 │
-├── 2a_[Faster R-CNN][Nicholas].ipynb
-├── 2b[Yolov8_Sign_Shape]_[Nicholas].ipynb
+├── 2a_[Faster R-CNN]_[Nicholas].ipynb
+├── 2b_[Yolov8_Sign_Shape]_[Nicholas].ipynb
 │
 ├── Dependencies.yml
 └── README.md
