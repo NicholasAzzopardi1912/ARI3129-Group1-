@@ -6,6 +6,8 @@ Data/Datasets/**/images/*
 !Data/Datasets/**/images/val/**
 !Data/Datasets/**/images/train/
 !Data/Datasets/**/images/train/**
+!Data/Datasets/YOLO_COCO_sign_shape/images/test/
+!Data/Datasets/YOLO_COCO_sign_shape/images/test/**
 Data/Datasets/**/labels/
 !Data/Datasets/YOLO_COCO_sign_shape/labels/
 !Data/Datasets/YOLO_COCO_sign_shape/labels/**
