@@ -1,5 +1,7 @@
 # Big data / outputs
-Data/Datasets/**/images/
+Data/Datasets/**/images/*
+!Data/Datasets/**/images/test/
+!Data/Datasets/**/images/test/**
 Data/Datasets/**/labels/
 runs/**/predictions/
 runs/**/weights/
