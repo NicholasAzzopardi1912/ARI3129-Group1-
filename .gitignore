@@ -2,6 +2,8 @@
 Data/Datasets/**/images/*
 !Data/Datasets/**/images/test/
 !Data/Datasets/**/images/test/**
+!Data/Datasets/**/images/val/
+!Data/Datasets/**/images/val/**
 Data/Datasets/**/labels/
 runs/**/predictions/
 runs/**/weights/
@@ -18,3 +20,4 @@ __pycache__/
 # OS junk
 Thumbs.db
 .DS_Store
+
