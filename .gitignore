@@ -1,22 +1,15 @@
-# environments / caches
-.venv/
+# --- Data / datasets ---
+data/
+*.zip
+
+# --- Python / common ---
 __pycache__/
 *.pyc
+.venv/
+venv/
 
-# datasets / big binaries (keep out of Git)
-data/
-
-# ignore all runs by default
+# --- Runs: ignore everything except YOLO ---
 runs/*
-
-# but keep YOLO runs
 !runs/YOLO/
 !runs/YOLO/**
 
-
-# model checkpoints / weights (often exceed GitHub normal limits)
-*.pth
-*.ckpt
-*.onnx
-*.pkl
-*.npz
