@@ -8,8 +8,6 @@ __pycache__/
 .venv/
 venv/
 
-# --- Runs: ignore everything except YOLO ---
-runs/*
-!runs/YOLO/
-!runs/YOLO/**
+
+*.pth
 
