@@ -4,7 +4,10 @@ __pycache__/
 *.pyc
 
 # datasets / big binaries (keep out of Git)
-data/
 
-# model checkpoints / weights (too large for GitHub normal Git)
+# model checkpoints / weights (often exceed GitHub normal limits)
 *.pth
+*.ckpt
+*.onnx
+*.pkl
+*.npz
