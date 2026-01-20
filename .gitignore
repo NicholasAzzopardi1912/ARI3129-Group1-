@@ -7,6 +7,8 @@ Data/Datasets/**/images/*
 !Data/Datasets/**/images/train/
 !Data/Datasets/**/images/train/**
 Data/Datasets/**/labels/
+!Data/Datasets/YOLO_COCO_sign_shape/labels/
+!Data/Datasets/YOLO_COCO_sign_shape/labels/**
 runs/**/predictions/
 runs/**/weights/
 **/*.pt
