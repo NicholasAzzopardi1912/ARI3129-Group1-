@@ -4,6 +4,14 @@ __pycache__/
 *.pyc
 
 # datasets / big binaries (keep out of Git)
+data/
+
+# ignore all runs by default
+runs/*
+
+# but keep YOLO runs
+!runs/YOLO/
+!runs/YOLO/**
 
 # model checkpoints / weights (often exceed GitHub normal limits)
 *.pth
