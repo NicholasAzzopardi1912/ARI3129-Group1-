@@ -1,0 +1,992 @@
+[
+  {
+    "image": "028195a4-IMG20251123165145.jpg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "02995950-IMG20260105125533.jpg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "02fdc633-RV_001_161.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "045c881d-RV_001_63.jpeg",
+    "total_signs_detected": 2,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 1,
+      "Square": 0
+    }
+  },
+  {
+    "image": "055b0df8-IMG_4576.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "05a0d473-IMG20260105131437.jpg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "0b36e2e7-IMG_4686.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "0d36136c-IMG_4581.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "0d4db725-IMG_20260108_180817.jpg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "14fc8ab8-IMG_5671.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "19142da5-IMG_4661.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "197d9811-RV_001_129.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "1cd299b0-IMG_4635.jpeg",
+    "total_signs_detected": 2,
+    "counts_per_shape": {
+      "Circular": 2,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "1cec6336-IMG_4710.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "1ea7fc82-IMG_4719.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 1,
+      "Square": 0
+    }
+  },
+  {
+    "image": "2042f137-IMG_4753.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "213f8e9b-IMG20260105131202.jpg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "217ea293-IMG_20260108_180834.jpg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "2289ce89-IMG_5668.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "28293e40-IMG_4763.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "2fd3b3ce-IMG_20260108_175838.jpg",
+    "total_signs_detected": 2,
+    "counts_per_shape": {
+      "Circular": 2,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "31f63ece-IMG_4664.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "34b8df8a-IMG_4727.jpeg",
+    "total_signs_detected": 2,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 1,
+      "Square": 1
+    }
+  },
+  {
+    "image": "36f21ebc-IMG_5647.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "3aa85aff-IMG_4614.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "3c2142f0-IMG_4750.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "3da0fa16-IMG_5775.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "3e4c55b1-IMG20260105131924.jpg",
+    "total_signs_detected": 4,
+    "counts_per_shape": {
+      "Circular": 2,
+      "Octagonal": 0,
+      "Square": 2
+    }
+  },
+  {
+    "image": "3f35aca4-IMG20260105131424.jpg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "435dd44d-IMG_5649.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "46d6ffd8-RV_001_45.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 1,
+      "Square": 0
+    }
+  },
+  {
+    "image": "48101429-IMG_4659.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "49186c02-IMG_4728.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 1,
+      "Square": 0
+    }
+  },
+  {
+    "image": "4ba6bf08-IMG_5663.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "4ea12673-IMG20260105120959.jpg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "5b05ee98-RV_001_123.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "5bc12c64-IMG_4744.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "61f50766-RV_001_134.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "62b4fe02-RV_001_78.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "62b94ef7-RV_001_91.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "64a36757-IMG20251230164429.jpg",
+    "total_signs_detected": 2,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "69f4eef1-IMG_4684.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "6a3e0062-IMG_5642.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "6ad6727a-IMG_4779.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "6cdc5486-IMG_4729.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 1,
+      "Square": 0
+    }
+  },
+  {
+    "image": "710cd2c7-RV_001_151.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "746fa27c-IMG_4723.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "789dbe3c-RV__4.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "7bd11d92-RV_001_122.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "7d254610-IMG_4795.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 1,
+      "Square": 0
+    }
+  },
+  {
+    "image": "7ec753b3-IMG_5791.jpeg",
+    "total_signs_detected": 2,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 1,
+      "Square": 0
+    }
+  },
+  {
+    "image": "8135c353-IMG_4634.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "81446ea0-RV__19.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "8596f454-IMG20251230165119.jpg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "86afb21b-IMG_4742.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "87598dd4-IMG_4714.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 1,
+      "Square": 0
+    }
+  },
+  {
+    "image": "8d351217-IMG_5780.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "8d4432df-IMG_5677.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "909ebfa4-RV__12.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "911f06e9-RV_001_105.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 1,
+      "Square": 0
+    }
+  },
+  {
+    "image": "91985f0a-RV__21.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "920329a1-IMG_4622.jpeg",
+    "total_signs_detected": 2,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 2
+    }
+  },
+  {
+    "image": "95b78e90-IMG20260105132907.jpg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 1,
+      "Square": 0
+    }
+  },
+  {
+    "image": "9bb0e467-IMG20260103164434.jpg",
+    "total_signs_detected": 2,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 2
+    }
+  },
+  {
+    "image": "9d50d2e0-IMG_4658.jpeg",
+    "total_signs_detected": 0,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "a03f4247-IMG20251124134435.jpg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "a1d278d0-IMG_4641.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "a1e68149-RV_001_135.jpeg",
+    "total_signs_detected": 0,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "a697f48c-IMG_5784.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "a7df285e-RV_001_147.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "ab8839d1-IMG_5817.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "abffebf5-IMG_4583.jpeg",
+    "total_signs_detected": 0,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "ac5a1ec4-RV__8.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "ad4a11e1-IMG_5569.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "aefb6199-IMG_4640.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "b61d6ec8-IMG_20260108_181206.jpg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "b8dedf15-IMG_5685.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 1,
+      "Square": 0
+    }
+  },
+  {
+    "image": "bdfe5d54-IMG_4732.jpeg",
+    "total_signs_detected": 0,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "bfd3adee-IMG_5672.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "c1182f4f-IMG_4770.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "c4650dcc-RV_001_165.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "c4f1cefc-RV__9.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "ca48394e-RV_001_125.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 1,
+      "Square": 0
+    }
+  },
+  {
+    "image": "cbe76323-IMG20251124134324.jpg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "ccb321ab-IMG_5635.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "cd03e769-IMG_5786.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "cf8b5401-IMG_5555.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "d38b46ce-RV_001_68.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "d3fbb8b7-IMG_4698.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "d4f6899e-IMG20260105131842.jpg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "d5df4c01-IMG_4734.jpeg",
+    "total_signs_detected": 0,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "d681b797-IMG20260105132903.jpg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 1,
+      "Square": 0
+    }
+  },
+  {
+    "image": "da3b8835-IMG_4688.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "dba8e90b-IMG_5806.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "ded40c57-IMG20260105132900.jpg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 1,
+      "Square": 0
+    }
+  },
+  {
+    "image": "e04cd134-IMG20260105124953.jpg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 1,
+      "Square": 0
+    }
+  },
+  {
+    "image": "e1306f94-IMG20251230164545.jpg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 1,
+      "Square": 0
+    }
+  },
+  {
+    "image": "e1696dd2-IMG_5740.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 1,
+      "Square": 0
+    }
+  },
+  {
+    "image": "e284a9d2-IMG_4690.jpeg",
+    "total_signs_detected": 0,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "e362badb-IMG_4772.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "e4a907bc-IMG20260105121244.jpg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "e6238c33-IMG_5531.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "ecec9d16-RV_001_146.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "f0914f6a-IMG_5641.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "f17121f2-IMG_5575.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "f40bfba6-IMG_5634.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 0,
+      "Octagonal": 0,
+      "Square": 1
+    }
+  },
+  {
+    "image": "fa18c1a9-IMG_5810.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "fa68d72b-IMG_4627.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "fdfcc369-IMG_20260108_180757.jpg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  },
+  {
+    "image": "ff4c9577-IMG_5540.jpeg",
+    "total_signs_detected": 1,
+    "counts_per_shape": {
+      "Circular": 1,
+      "Octagonal": 0,
+      "Square": 0
+    }
+  }
+]
