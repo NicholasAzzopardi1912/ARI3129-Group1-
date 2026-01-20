@@ -1,0 +1,10 @@
+path: C:\Users\nicho\OneDrive\University\Year 3\CV\Project\ARI3129 - Assignment Materials\ARI3129 - Assignment Materials\Data\Datasets\YOLO_COCO_sign_shape
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: Circular
+  1: Octagonal
+  2: Square
