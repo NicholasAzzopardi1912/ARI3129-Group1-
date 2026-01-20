@@ -8,17 +8,6 @@ The project focuses on traffic sign detection and the generation of post-detecti
 
 ## Directory Structure Overview
 
-```md
-# ARI3129 – Assignment Materials  
-**Traffic Sign Detection for Sign Type, Sign Shape Attribute, and Analytics using Faster R-CNN and YOLOv8**
-
-This repository contains the materials submitted for the ARI3129 Computer Vision group assignment.  
-The project focuses on traffic sign detection and the generation of post-detection analytics to support traffic sign monitoring and maintenance.
-
----
-
-## Directory Structure Overview
-
 ```text
 ARI3129 - Assignment Materials/
 │
@@ -56,6 +45,7 @@ ARI3129 - Assignment Materials/
 │
 ├── Dependencies.yml
 └── README.md
+'''
 
 
 
