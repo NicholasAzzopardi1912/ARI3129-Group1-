@@ -5,8 +5,6 @@ __pycache__/
 
 # datasets / big binaries (keep out of Git)
 data/
-runs/
-**/runs/
 
 # model checkpoints / weights (too large for GitHub normal Git)
 *.pth
