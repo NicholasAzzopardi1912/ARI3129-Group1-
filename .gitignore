@@ -13,10 +13,8 @@ Data/Datasets/**/images/*
 Data/Datasets/**/labels/
 !Data/Datasets/YOLO_COCO_sign_shape/labels/
 !Data/Datasets/YOLO_COCO_sign_shape/labels/**
-runs/**/predictions/
-runs/**/weights/
-**/*.pt
-**/*.pth
+runs/**/best.pt
+runs/**/weights/**/best.pt
 
 # Jupyter
 .ipynb_checkpoints/
