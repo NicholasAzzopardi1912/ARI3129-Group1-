@@ -47,6 +47,12 @@ ARI3129 - Assignment Materials/
 └── README.md
 ```
 
+## External Link to Merged Dataset Before Applying LS2COCO (Google Drive)
+
+- **(merged.json and merged.zip)**  
+https://drive.google.com/file/d/1ks-TJsHdTg4sOXKiml_AWgi9LdgPbD_u/view?usp=sharing
+
+---
 
 ---
 
