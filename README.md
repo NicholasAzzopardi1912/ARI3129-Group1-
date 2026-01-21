@@ -18,6 +18,8 @@ ARI3129 - Assignment Materials/
 │       └── YOLO_COCO_condition/
 │           └── Dataset used for YOLOv12 sign condition detection
 │
+├── 2a_results
+│    └── Predictions on test dataset
 ├── 2b_results
 │	 ├── test_condition_analytics.csv - used for getting more results
 │	 └── test_condition_analytics.json - used for getting more results
@@ -88,7 +90,7 @@ ARI3129 - Assignment Materials/
 
 ## Analytics and Results
 
-- **2a_[RetinaNet]_[Jamie].ipynb** contains RetinaNet post-detection analytics, including metrics, detected sign types, and qualitative prediction images.
+- **2a_results.ipynb** contains RetinaNet post-detection analytics, the predicted test dataset images.
 - **2b_results/** contains YOLOv12 post-detection analytics, including per-image sign counts, detected sign conditions, and qualitative prediction images.
 - Model performance metrics and training artefacts are stored within the corresponding model run directories.
 
