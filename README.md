@@ -63,8 +63,8 @@ ARI3129 - Assignment Materials/
 │       │
 │       └── val2/
 │            
-├── retinanet_best.pth           
-├── retinanet_custom.pth          
+├── retinanet_best.pth  ->  Found below in a google drive link
+├── retinanet_custom.pth  ->  Found below in a google drive link          
 │
 ├── 2a_[RetinaNet]_[Jamie].ipynb
 ├── 2b_[Yolov12_Sign_Condition]_[Jamie].ipynb
@@ -85,6 +85,11 @@ ARI3129 - Assignment Materials/
 
 - **2b_[Yolov12_Sign_Condition]_[Jamie].ipynb**  
   Implements training, evaluation, and analytics generation for traffic sign **condition** detection using YOLOv12.
+
+---
+
+## External Link to RetinaNet Trained models - retinanet_best.pth  & retinanet_custom.pth  
+- **https://drive.google.com/drive/folders/1jlDvgj0t957_1WxGWXImi1BRRiK9sHvH?usp=drive_link**
 
 ---
 
