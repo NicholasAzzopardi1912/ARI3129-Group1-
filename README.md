@@ -1,5 +1,5 @@
 # ARI3129 – Assignment Materials  
-**Traffic Sign Detection for Sign Type, Sign Condition Attribute, and Analytics using RetinaNet and YOLOv12**
+**Traffic Sign Detection for Sign Type, Sign Condition Attribute, and Analytics using YOLOv10 and EfficientDet**
 
 This repository contains the materials submitted for the ARI3129 Computer Vision group assignment.  
 The project focuses on traffic sign detection and the generation of post-detection analytics to support traffic sign monitoring and maintenance.
