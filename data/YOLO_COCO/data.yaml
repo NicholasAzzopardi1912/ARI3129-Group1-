@@ -1,0 +1,12 @@
+"path": "C:\\Users\\jerem\\Desktop\\ARI3129 - Assignment Materials\\models\\YOLO\\data\\YOLO_COCO"
+"train": "images/train"
+"val": "images/val"
+"test": "images/test"
+"names": [
+  "Blind-Spot Mirror (Convex)",
+  "No Entry (One Way)",
+  "No Through Road (T-Sign)",
+  "Pedestrian Crossing",
+  "Roundabout Ahead",
+  "Stop"
+]
