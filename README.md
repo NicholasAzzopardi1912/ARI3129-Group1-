@@ -90,7 +90,7 @@ ARI3129 - Assignment Materials/
 
 ## Analytics and Results
 
-- **2a_results.ipynb** contains RetinaNet post-detection analytics, the predicted test dataset images.
+- **2a_results/** contains RetinaNet post-detection analytics, the predicted test dataset images.
 - **2b_results/** contains YOLOv12 post-detection analytics, including per-image sign counts, detected sign conditions, and qualitative prediction images.
 - Model performance metrics and training artefacts are stored within the corresponding model run directories.
 
