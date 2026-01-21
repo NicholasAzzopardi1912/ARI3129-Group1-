@@ -1,0 +1,36 @@
+# Big data / outputs
+Data/Datasets/**/images/*
+Data/Datasets/**/images/test/
+Data/Datasets/**/images/test/**
+Data/Datasets/**/images/val/
+Data/Datasets/**/images/val/**
+Data/Datasets/**/images/train/
+Data/Datasets/**/images/train/**
+Data/Datasets/YOLO_COCO_condition/images/test/
+Data/Datasets/YOLO_COCO_condition/images/test/**
+Data/Datasets/YOLO_COCO_condition/images/val/
+Data/Datasets/YOLO_COCO_condition/images/val/**
+Data/Datasets/**/labels/
+Data/Datasets/YOLO_COCO_condition/labels/
+Data/Datasets/YOLO_COCO_condition/labels/**
+
+# Make sure these are uploaded later
+runs/detect/predict/
+2a_results/
+retinanet_best.pth 
+retinanet_custom.pth 
+
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+
+
+# OS junk
+.DS_Store
+anaconda_projects/
+

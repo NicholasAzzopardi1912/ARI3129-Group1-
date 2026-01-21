@@ -1,0 +1,11 @@
+{
+  "path": "C:\\ARI3129_work\\Datasets\\YOLO_COCO_condition",
+  "train": "images/train",
+  "val": "images/val",
+  "test": "images/test",
+  "names": [
+    "Good",
+    "Heavily Damaged",
+    "Weathered"
+  ]
+}
