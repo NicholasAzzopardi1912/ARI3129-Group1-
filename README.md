@@ -105,10 +105,11 @@ ARI3129 - Assignment Materials/
 │           ├── val_batch2_labels.jpg
 │           └── val_batch2_pred.jpg
 │
+├── .gitignore
 ├── 1_data_visualisation.ipynb
 ├── 2a_[YOLOv11]_[Jeremy_Galea].ipynb
 ├── 2b_[RF-DETR_viewing_angle]_[Jeremy_Galea].ipynb
-├── .gitignore
+├── Dependencies.yml
 └── README.md
 ```
 
