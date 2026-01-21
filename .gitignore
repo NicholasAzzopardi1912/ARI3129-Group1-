@@ -1,13 +1,11 @@
-# --- Data / datasets ---
-data/
-*.zip
-
 # --- Python / common ---
 __pycache__/
 *.pyc
 .venv/
 venv/
 
+data/
+runs/ 
 
 *.pth
 
