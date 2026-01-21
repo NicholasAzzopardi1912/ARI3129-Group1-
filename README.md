@@ -31,7 +31,7 @@ ARI3129 - Assignment Materials/
 │       │   └── sign_type_analytics.csv
 │       │
 │       ├── fasterrcnn_sign_type_v1/
-│       │   ├── best.pt (not included – exceeds GitHub 100 MB limit)
+│       │   ├── best.pt -> Provided via Google Drive link below
 │       │   ├── history.json
 │       │   └── test_metrics.json
 │       │
@@ -48,7 +48,6 @@ ARI3129 - Assignment Materials/
 ```
 
 
-
 ---
 
 ## Notebooks
@@ -58,6 +57,13 @@ ARI3129 - Assignment Materials/
 
 - **2b_[Yolov8_Sign_Shape]_[Nicholas].ipynb**  
   Implements training, evaluation, and analytics generation for traffic sign **shape** detection using YOLOv8.
+
+---
+
+## External Link to Faster R-CNN Trained model - best.pt (Google Drive)
+
+- **Faster R-CNN Trained Model (best.pt)**  
+https://drive.google.com/file/d/1WNBYN6ECKyLmrjEJbQA8hlkH-j1WRq-X/view?usp=sharing
 
 ---
 
